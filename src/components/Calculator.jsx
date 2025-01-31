@@ -32,9 +32,10 @@ const Calculator = () => {
         height: "100vh",
         flexDirection: "column",
         textAlign: "center",
+        backgroundColor: "grey",
       }}
     >
-      <h2>React Calculator</h2>
+      <h2>Calculator</h2>
       <div
         style={{
           display: "flex",
